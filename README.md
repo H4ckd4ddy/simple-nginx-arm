@@ -1,6 +1,6 @@
 # simple-nginx-arm
 
-####The easiest to use nginx image for arm arch like raspberry
+#### The easiest to use nginx image for arm arch like raspberry
 
 Ideal as web entrypoint of docker-compose stack, you can simply defined all your hosts in environment variables with this format :
 
